@@ -1,0 +1,25 @@
+@import '../../../styles/constant.scss';
+
+@media only screen and #{$mobile} {
+  .ui.segment {
+    table.ui {
+      &.table {
+        thead {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+table.ui {
+  &.table {
+    tbody {
+      tr {
+        &:hover {
+          background-color: dimgrey;
+        }
+      }
+    }
+  }
+}

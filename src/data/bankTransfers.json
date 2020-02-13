@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2018-01-01",
+    "subject": "Rent - January",
+    "amount": "333",
+    "account": "DE91100000000123456789"
+  },
+  {
+    "date": "2018-02-03",
+    "subject": "Rent - February",
+    "amount": "444",
+    "account": "DE91100000000123456789"
+  },
+  {
+    "date": "2018-03-01",
+    "subject": "Rent - March",
+    "amount": "555",
+    "account": "DE91100000000123456789"
+  },
+  {
+    "date": "2018-03-01",
+    "subject": "Rent - March",
+    "amount": "999",
+    "account": "FR91100000000123456789"
+  },
+  {
+    "date": "2018-03-01",
+    "subject": "Rent - March",
+    "amount": "666",
+    "account": "BE91100000000123456789"
+  },
+  {
+    "date": "2018-03-01",
+    "subject": "Rent - March",
+    "amount": "789",
+    "account": "GR91100000000123456789"
+  }
+]

@@ -1,0 +1,15 @@
+.box_invoiceForm {
+  &.ui {
+    &.form {
+      .fields {
+        flex-wrap: inherit;
+      }
+
+      .field {
+        &.error {
+          text-align: center;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2018-01-01",
+    "subject": "Rent - January",
+    "amount": 500,
+    "account": "DE91100000000123456789"
+  },
+  {
+    "date": "2018-02-03",
+    "subject": "Rent - February",
+    "amount": 500,
+    "account": "DE91100000000123456789"
+  },
+  {
+    "date": "2018-03-01",
+    "subject": "Rent - March",
+    "amount": 550,
+    "account": "DE91100000000123456789"
+  }
+]

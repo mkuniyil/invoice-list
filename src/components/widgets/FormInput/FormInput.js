@@ -1,13 +1,6 @@
 import React from 'react';
 
-const FormInput = ({
-  hide,
-  label,
-  name,
-  onChange,
-  testId,
-  ...props
-}) => {
+const FormInput = ({ hide, label, name, onChange, testId, ...props }) => {
   if (hide) {
     return null;
   }
